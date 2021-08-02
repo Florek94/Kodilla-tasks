@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-size: 18px;
+}
+.italic {
+     font-style: italic;
+ }
+.text {
+     margin: 0 auto;
+     margin-top: 50px;
+     width: 30%;   
+ }
